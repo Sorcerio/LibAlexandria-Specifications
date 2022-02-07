@@ -1,0 +1,17 @@
+{
+    "_infover": "1.1.0",
+    "classification": "AS",
+    "title": "Lorem Ipsum",
+    "author": "John Doe",
+    "date": "1990-01-01",
+    "sourceFile": "LoremIpsum.txt",
+    "otherFiles": [
+        {
+            "label": "Lorem Ipsum PDF",
+            "path": "LoremIpsum.pdf",
+            "description": "Lorem Ipsum in a PDF format."
+        }
+    ],
+    "flags": ["text", "prose", "example", "libalexandria"],
+    "description": "An example LibAlexandria Item."
+}
