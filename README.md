@@ -17,6 +17,7 @@ This repository also contains links to the currently supported [Language Binding
     * [1.1.0](./metaFiles/meta1.1.0.md)
     * [1.0.0](./metaFiles/meta1.0.0.md)
 * [Example Media Directory](./LoremIpsum)
+* [Pandoc](./pandoc.md)
 * Library of Congress Classification Codes
     * [Library of Congress' website](https://www.loc.gov/catdir/cpso/lcco/)
     * [Wikipedia](https://en.wikipedia.org/wiki/Library_of_Congress_Classification#Classification)
