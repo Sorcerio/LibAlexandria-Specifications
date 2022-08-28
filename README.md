@@ -14,7 +14,7 @@ This repository also contains links to the currently supported [Language Binding
 
 * [Library Structure](./libraryStructure.md)
 * Meta File Documentation
-    * [1.1.0](./metaFiles/meta1.1.0.md)
+    * [2.0.0](./metaFiles/meta2.0.0.md)
     * [1.0.0](./metaFiles/meta1.0.0.md)
 * [Example LibAlex Object Directory](./LoremIpsum)
 
