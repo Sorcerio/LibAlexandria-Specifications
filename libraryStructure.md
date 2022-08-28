@@ -2,6 +2,7 @@
 
 >
 > This page may be updated in the future to be more verbose.
+> 
 > As it stands now, this is as simple and accurate as possible.
 >
 
@@ -12,6 +13,7 @@
     * The `README.md` file provides and introduction to the specific library.
 * LibAlexandria Libary categories can be labeled as anything the user wants.
 * LibAlexandria Items contain the item's content and `meta.json` file unique to the content.
+* LibAlexandria Items will inheret the tag names of the categories and subcategories that they belong to.
 
 ## Example Directory Map
 
