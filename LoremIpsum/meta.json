@@ -7,9 +7,15 @@
     "sourceFile": "LoremIpsum.md",
     "otherFiles": [
         {
-            "label": "Lorem Ipsum PDF",
+            "label": "PDF Format",
             "path": "LoremIpsum.pdf",
             "description": "Lorem Ipsum in a PDF format."
+        },
+        {
+            "label": "Cover Art",
+            "path": "cover.png",
+            "description": "The cover for Lorem Ipsum.",
+            "id": "cover"
         }
     ],
     "flags": ["text", "prose", "example", "libalexandria"],
