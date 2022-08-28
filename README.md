@@ -30,4 +30,4 @@ This repository also contains links to the currently supported [Language Binding
 
 Language Bindings provide native support for the LibAlexandria standard in the specified language.
 
-* _Python 3 Bindings Coming Soon_.
+* [Python 3 Bindings](https://github.com/maximombro/LibAlexandria-Python-Bindings).
