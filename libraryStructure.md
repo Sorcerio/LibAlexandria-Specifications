@@ -8,12 +8,12 @@
 
 ## Overview
 
-* LibAlexandria Libaries are composed of a series of directories.
-* LibAlexandria Libaries have a `README.md` file in thier root directory.
+* LibAlexandria Libraries are composed of a series of directories.
+* LibAlexandria Libraries have a `README.md` file in their root directory.
     * The `README.md` file provides and introduction to the specific library.
 * LibAlexandria Libary categories can be labeled as anything the user wants.
 * LibAlexandria Items contain the item's content and `meta.json` file unique to the content.
-* LibAlexandria Items will inheret the tag names of the categories and subcategories that they belong to.
+* LibAlexandria Items will inherent the tag names of the categories and subcategories that they belong to.
 
 ## Example Directory Map
 

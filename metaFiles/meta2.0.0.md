@@ -44,5 +44,5 @@ The file must be named `meta.json` and be placed within the library item's direc
     * `description`: A description of the content within this additional file.
     * `id`: An _optional_ unique identifier for this additional file. This identifier is used by modules to determine specific additional files for various purposes.
 * `flags`: An array of string tags for the associated work. The value of this key can also be `null` to indicate no flags are specified.
-    * Additonal flags are inhereted based on the structure of the Library itself as detailed in [the Library Structure documentation](../libraryStructure.md).
+    * Additional flags are inherited based on the structure of the Library itself as detailed in [the Library Structure documentation](../libraryStructure.md).
 * `description`: A description of the content within the associated work.
