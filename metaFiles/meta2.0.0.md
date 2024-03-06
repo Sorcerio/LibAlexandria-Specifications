@@ -35,7 +35,7 @@ The file must be named `meta.json` and be placed within the library item's direc
     * The classification codes can be found either on the [Library of Congress' website](https://www.loc.gov/catdir/cpso/lcco/) or [Wikipedia](https://en.wikipedia.org/wiki/Library_of_Congress_Classification#Classification).
 * `title`: Title of the associated work.
 * `author`: The name of the author or authors of the associated work.
-* `date`: The date of creation for the associated work in the `YYYY-MM-DD` format.
+* `date`: The date of creation for the associated work in the `YYYY-MM-DD`, `YYYY/MM/DD`, `MM-DD-YYYY`, and `MM/DD/YYYY` formats.
 * `sourceFile`: A local _relative_ filepath to the associated work's primary **Markdown format** content file.
     * See the [Markdown Guide](https://www.markdownguide.org/) for documentation on the Markdown format.
 * `otherFiles`: A list of other files related to the associated work. The value of this key can also be `null` to indicate no additional files are specified.
